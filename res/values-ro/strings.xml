@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rate_title">Evaluați %s</string>
+    <string name="rate_message">Dacă vă place %s, ați dori să lăsați o scurtă recenzie? Vă mulțumim pentru susținere!</string>
+    <string name="rate">Da, hai să evaluez %s</string>
+    <string name="rate_later">Nu știu, poate mai târziu</string>
+    <string name="rate_cancel">Nu vreau, mulțumesc</string>
+</resources>
